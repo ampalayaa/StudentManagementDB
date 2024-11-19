@@ -1,0 +1,22 @@
+/* Center the form and add custom styling */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+form {
+    border: 1px solid #ddd; /* Light border around the form */
+}
+
+form .btn {
+    background-color: #000000; /* Primary button color */
+    border: none; /* Remove default border */
+}
+
+form .btn:hover {
+    background-color: #545454; /* Darker shade on hover */
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    color: #000000; /* Darker text for the heading */
+}
